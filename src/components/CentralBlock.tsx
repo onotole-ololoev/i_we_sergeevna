@@ -43,9 +43,9 @@ const CentralBlock = () => {
                 <option value="7">8 reason</option>
                 <option value="8">9 reason</option>
                 <option value="9">10 reason</option>
-                <option value="10">11 reason</option>
+                <option value="10">and finally</option>
             </select>
-            <button onClick={onClickHandler}>Greate choise!!!</button>
+            <button onClick={onClickHandler}>Great choice!!!</button>
         </div>
     );
 };
